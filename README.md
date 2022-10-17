@@ -17,7 +17,7 @@
         rel="noreferrer"
         hreflang="en"
       >
-        👉 Visit Now 🚀
+        🔍 Visit Now 🚀
       </a>
     </strong>
   </p>
